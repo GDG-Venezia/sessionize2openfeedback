@@ -70,13 +70,13 @@
       ],
       "trackTitle": "Spritz Track (English)"
     },
-    "546773": {
-      "id": "546773",
-      "title": "Sustainable me. A tale of good design.",
+    "545273": {
+      "id": "545273",
+      "title": "The Rollercoaster of Building a Web App with AI",
       "startTime": "2023-12-02T11:45:00",
       "endTime": "2023-12-02T12:30:00",
       "speakers": [
-        "ea344c2f-e20a-4995-8bf3-5503ab2a7ad1"
+        "6ad2428e-ecc2-4bf3-95e7-bee220cfb0ce"
       ],
       "trackTitle": "Prosecco Track (English)"
     },
@@ -172,13 +172,13 @@
       ],
       "trackTitle": "Workshop"
     },
-    "535089": {
-      "id": "535089",
-      "title": "Flutter. New Approach to Web Development.",
+    "584065": {
+      "id": "584065",
+      "title": "State of Declarative UI on Mobile Development",
       "startTime": "2023-12-02T15:15:00",
       "endTime": "2023-12-02T16:00:00",
       "speakers": [
-        "c73c2377-026f-4b6a-b1f7-91a536c33c67"
+        "e6c8ab3a-f53b-4adc-9798-bbfdf9d4f284"
       ],
       "trackTitle": "Spritz Track (English)"
     },
@@ -235,13 +235,13 @@
       ],
       "trackTitle": "Campari Track (Italian)"
     },
-    "545273": {
-      "id": "545273",
-      "title": "The Rollercoaster of Building a Web App with AI",
+    "535089": {
+      "id": "535089",
+      "title": "Flutter. New Approach to Web Development.",
       "startTime": "2023-12-02T17:15:00",
       "endTime": "2023-12-02T18:00:00",
       "speakers": [
-        "6ad2428e-ecc2-4bf3-95e7-bee220cfb0ce"
+        "c73c2377-026f-4b6a-b1f7-91a536c33c67"
       ],
       "trackTitle": "Spritz Track (English)"
     },
@@ -267,6 +267,12 @@
     }
   },
   "speakers": {
+    "e6c8ab3a-f53b-4adc-9798-bbfdf9d4f284": {
+      "id": "e6c8ab3a-f53b-4adc-9798-bbfdf9d4f284",
+      "name": "Alessandro Calzavara",
+      "photoUrl": "https://sessionize.com/image/e7d5-400o400o1-H8fGLgaVbktJKu4niU9uFV.jpg",
+      "socials": []
+    },
     "434b2e98-bd28-45b5-ac07-e453a39e114b": {
       "id": "434b2e98-bd28-45b5-ac07-e453a39e114b",
       "name": "Alessandro Pezzato",
@@ -343,12 +349,6 @@
       "id": "6ad2428e-ecc2-4bf3-95e7-bee220cfb0ce",
       "name": "Juan Herrera",
       "photoUrl": "https://sessionize.com/image/aa0f-400o400o1-DNgyJpcWpHTXGrS4F8Xd86.jpg",
-      "socials": []
-    },
-    "ea344c2f-e20a-4995-8bf3-5503ab2a7ad1": {
-      "id": "ea344c2f-e20a-4995-8bf3-5503ab2a7ad1",
-      "name": "Lorenzo Pieri",
-      "photoUrl": "https://sessionize.com/image/96b1-400o400o1-KstFpDbueJh6FR5Q3xq5Y3.png",
       "socials": []
     },
     "e6aa4c82-efca-4e6a-9c52-8052457eaf9e": {

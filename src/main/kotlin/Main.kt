@@ -30,7 +30,7 @@ fun main() {
 
     val result = json.encodeToString(ofData)
 
-    File("openfeedback-data/devfest23.json").writeText(result)
+    File("openfeedback-data/devfest24.json").writeText(result)
 }
 
 @Serializable
